@@ -7,3 +7,7 @@
 ## On glitch
 
 cloned from [lio-plays/glitch-starter](https://github.com/lio-plays/glitch-starter)
+
+## Generate GitHub Import Button
+
+[Here](https://github-import.glitch.me/)
